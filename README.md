@@ -1,3 +1,12 @@
 # LeetCode
 
-Solving Leetcode everyday for next 100 Days starting from 11 July.
+### How I am solving:
+
+- First I will try Brute Force then
+- Try to solve optimally
+
+#### Time and Space Complexity
+
+
+
+Solving Each Day to **learn -- build logic**
