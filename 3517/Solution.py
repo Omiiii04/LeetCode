@@ -14,3 +14,10 @@ class Solution:
             return left + left[::-1]
         else:
             return left + s[mid] + left[::-1]
+
+
+'''
+How I solved this problem:
+    1. I first calculated this string's mid half as we know that a palindrome is symmetric, so we only need to sort the first half of the string.
+    2. Sort the left half and mirror it if length is even else add mid element if odd length.
+'''
