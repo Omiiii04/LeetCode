@@ -13,3 +13,5 @@ class Solution:
                 if j == len(needle) - 1:
                     return i
         return -1
+
+Time Complexity: O(n * m) where n is the length of haystack and m is the length of needle.
